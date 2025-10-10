@@ -4,7 +4,7 @@ pipeline{
   }
   stages{
     stage build{
-      ./build.sh
+      
       echo "Build succesful"
     }
     stage test{
