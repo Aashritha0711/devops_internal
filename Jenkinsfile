@@ -8,6 +8,6 @@ pipeline{
       echo "Build succesful"
     }
     stage test{
-      echo "Testing succesful"
+      echo "Test succesful"
     }
   }}
